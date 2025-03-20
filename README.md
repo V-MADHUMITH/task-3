@@ -42,7 +42,7 @@ Future Improvements
  Integrate with an API for real-time information
  Implement a deep learning model for better accuracy
 output:
-
+![Image](https://github.com/user-attachments/assets/9e80f9d0-600d-42d1-9420-8fcf32910696)
 
 
 
